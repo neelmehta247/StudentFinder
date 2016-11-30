@@ -1,0 +1,7 @@
+srno ,Status ,firstname ,middlename ,lastname ,Gen ,HL1 ,BlockHL1 ,TchrHL1 ,HL2 ,BlockHL2 ,TchrHL2 ,HL3 ,BlockHL3 ,TchrHL3 ,SL1 ,BlockSL1 ,TchrSL1 ,SL2 ,BlockSL2 ,TchrSL2 ,SL3 ,BlockSL3 ,TchrSL3 ,SL4 ,BlockSL4 ,TchrSL4 ,SL5 ,BlockSL5 ,TchrSL5 ,TOK ,TchrTOK ,objectId
+104, NEW ,RONAK ,SANDIP ,VIMADALAL ,M ,MATH ,2 ,ML ,PHY ,3A ,BP ,CHEM ,1 ,RS ,LANG & LIT ,5 ,PD ,HINDI B ,4 ,DS ,ECO ,6 ,CMC , , , , , , ,7H ,RD/SBA ,q3TYRY3jv8
+102, IGCSE ,SHRISH , ,VENKAT ,M ,ECO ,3 ,JSP ,B&M ,2 ,DJ ,CHEM ,1 ,RS ,LANG & LIT ,4A ,NM ,SPN AB ,6 ,GM ,MATH ,5 ,SPL , , , , , , ,7B ,AP/NB ,UqcHLdJEDV
+103, NEW ,RISHIT ,SANDIP ,VIMADALAL ,M ,ECO ,2A ,YC ,BIO ,1 ,SB/BDA ,HIST ,3 ,SWA/SP ,MATH ,5 ,SPL ,HINDI B ,6 ,AV ,LANG & LIT ,4B ,LR , , , , , , ,7E ,NN/SHR ,pMqx470xdG
+101, IGCSE ,HRIDAY ,HARESH ,VASWANI ,M ,B&M ,2 ,DJ ,ECO ,3 ,JSP ,CHEM ,1 ,RS ,MATH ,4 ,ALI ,HINDI B ,5 ,SR ,LIT & PERF ,6 ,NP , , , , , , ,7B ,AP/NB ,ML2S3yidBf
+106, ICSE ,YASH ,VIJAYAPRASAD ,WARTY ,M ,B&M ,2 ,DJ ,MATH ,1A ,YD ,ECO ,3 ,JSP ,LIT & PERF ,4 ,NP ,HINDI B ,5 ,SR ,PHY ,6 ,BP , , , , , , ,7E ,NN/SHR ,oEd0sRlYWE
+105, ICSE ,JASH ,MIHIR ,VORA ,M ,MATH ,1A ,YD ,PHY ,2 ,NB ,CHEM ,3 ,HIY ,LANG & LIT ,4A ,NM ,ECO ,5 ,SBA ,SPN AB ,6 ,GM , , , , , , ,7G ,PS ,QZuMBY94fB
